@@ -1,0 +1,6 @@
+C:\Users\Kirill\VS_stuff\Coursendze\Interpolations\bin\Debug\Interpolations.dll
+C:\Users\Kirill\VS_stuff\Coursendze\Interpolations\bin\Debug\Interpolations.pdb
+C:\Users\Kirill\VS_stuff\Coursendze\Interpolations\obj\Debug\Interpolations.csproj.AssemblyReference.cache
+C:\Users\Kirill\VS_stuff\Coursendze\Interpolations\obj\Debug\Interpolations.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\VS_stuff\Coursendze\Interpolations\obj\Debug\Interpolations.dll
+C:\Users\Kirill\VS_stuff\Coursendze\Interpolations\obj\Debug\Interpolations.pdb
